@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/phuocvj/IP_ADDRESS_INFRA_MGNT/releases/download/Update-Alpha-Test-v1.0.1/IPAddressManagement.exe",
-  "releaseNote": "Quản lý IP. Ping. cập nhật"
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/phuocvj/IP_ADDRESS_INFRA_MGNT/releases/download/Update-1.0.2/IPAddressManagement.exe",
+  "releaseNote": "Thay đổi UI, Sửa các lỗi đã biết."
 }
