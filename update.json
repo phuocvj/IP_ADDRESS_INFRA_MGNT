@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "downloadUrl": "https://github.com/phuocvj/IP_ADDRESS_INFRA_MGNT/releases/download/Update-1.0.5/IPAddressManagement.exe",
-  "releaseNote": "Thêm chức năng ping từng IP riêng lẻ\nThêm Auto Update\nSửa một số lỗi đã biết"
+  "version": "1.0.6",
+  "downloadUrl": "https://github.com/phuocvj/IP_ADDRESS_INFRA_MGNT/releases/download/Update-1.0.6/IPAddressManagement.exe",
+  "releaseNote": "Thêm chức năng ping từng IP riêng lẻ\nThêm Auto Update\nSửa một số lỗi đã biết\nHiển thị ms thời gian phản hồi."
 }
