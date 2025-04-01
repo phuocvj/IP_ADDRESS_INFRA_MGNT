@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/phuocvj/IP_ADDRESS_INFRA_MGNT/releases/download/Update-1.0.7/IPAddressManagement.exe",
-  "releaseNote": "Add Division Team (Pop Team có thể sử dụng chung)."
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/phuocvj/IP_ADDRESS_INFRA_MGNT/releases/download/Update-1.0.8/IPAddressManagement.exe",
+  "releaseNote": "Phân quyền bằng machine Key. Machine Key được tạo từ CPUId BiosSerial BoardSerial và VolumnSerial."
 }
