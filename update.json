@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "downloadUrl": "https://github.com/phuocvj/IP_ADDRESS_INFRA_MGNT/releases/download/Update-1.0.9/IPAddressManagement.exe",
   "releaseNote": "Phân quyền bằng machine Key. Machine Key được tạo từ CPUId BiosSerial BoardSerial và VolumnSerial."
 }
